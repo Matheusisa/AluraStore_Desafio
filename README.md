@@ -80,7 +80,46 @@ O notebook está dividido em etapas bem definidas:
    ```bash
    pip install pandas jupyter
    
-3.Execute o Jupyter Notebook:   
-  ```bash
-  jupyter notebook AluraStoreBr.ipynb
+3. Execute o Jupyter Notebook:
+   ```bash
+   jupyter notebook AluraStoreBr.ipynb
 
+## 🤝 Contribuições
+
+Ficarei feliz em receber contribuições para o projeto! Para contribuir, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature: `git checkout -b minha-feature`.
+3. Realize as alterações desejadas e faça um commit: `git commit -m "Minha nova feature"`.
+4. Envie suas alterações para o branch: `git push origin minha-feature`.
+5. Abra um Pull Request e descreva as mudanças realizadas.
+
+---
+
+## 📅 Roadmap Futuro
+
+- [ ] Adicionar análise de sazonalidade nas vendas.
+- [ ] Implementar machine learning para previsão de vendas.
+- [ ] Criar um dashboard interativo utilizando ferramentas como Streamlit ou Dash.
+- [ ] Incluir análise de comportamento de clientes ao longo do tempo.
+
+---
+
+## 🏷️ Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
+
+---
+
+## ❓ FAQ (Perguntas Frequentes)
+
+- **Preciso de experiência com Python para rodar o projeto?**  
+  Não necessariamente, mas conhecimento básico em Python e Jupyter Notebook ajudará a entender melhor a análise.
+
+- **Os dados utilizados são reais ou fictícios?**  
+  Os dados são fictícios e foram fornecidos no contexto do desafio da Alura.
+
+- **Posso usar este projeto como base para meus estudos ou trabalhos?**  
+  Sim! Este projeto foi criado com o propósito de aprendizado, e você pode utilizá-lo como referência ou ponto de partida.
+
+---
