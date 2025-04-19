@@ -1,5 +1,10 @@
 # 🛍️ Alura Store BR - Análise de Vendas
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
 Bem-vindo à **Alura Store BR**, um projeto de análise de dados desenvolvido com Python e pandas, onde exploramos o desempenho de quatro lojas virtuais com foco em insights de vendas, faturamento e comportamento do consumidor.
 
 Este notebook foi criado no contexto de um desafio de Data Science da Alura, e tem como objetivo aplicar boas práticas de análise exploratória de dados (EDA), visualização e storytelling com dados.
