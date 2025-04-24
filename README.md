@@ -96,9 +96,11 @@ O notebook está dividido em etapas bem definidas:
 - A categoria mais vendida foi **Móveis**, com um total de **1.886 produtos vendidos**.
 - Outras categorias com bom desempenho incluem **Eletrônicos** e **Brinquedos**.
    <img src="categoria_mais_vendidas.png" alt="Categorias mais vendidadas" width="500">
+   
 ### 🔹 **Avaliação Média das Lojas**
 - A loja mais bem avaliada foi a **Loja 3**, com uma média de **4,05 estrelas**.
-
+   <img src="media_de_avaliação.png" alt="Media de Avaliação por loja" width="500">
+   
 ### 🔹 **Produtos Mais e Menos Vendidos**
 - Produtos mais vendidos incluem itens como **Guarda-roupas** e **Micro-ondas**.
 - Produtos menos vendidos variam entre lojas e incluem itens como **Panela de pressão** e **Headsets**.
